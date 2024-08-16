@@ -7,5 +7,6 @@
 	<package name="com.ace.domain"/>
 </typeAliases>
   <mappers>  
+    <mapper resource="mybatis/mapper/AnalysisExcMapper.xml"/>
   </mappers>
 </configuration>
